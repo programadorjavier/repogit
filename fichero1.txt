@@ -1,1 +1,1 @@
-contenido del fichero a modificado otra vez 
+contenido del fichero a modificado otra vez y desde el repositorio remoto 
